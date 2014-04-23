@@ -1,4 +1,4 @@
-Pinterest API for Python
+ API for Pinning things to Pinterest Dynamically
 
 Example of use:
 
