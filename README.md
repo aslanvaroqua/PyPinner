@@ -3,7 +3,8 @@ Pinterest API for Python
 Example of use:
 
 http://localhost:8080/api/pinterest  
-POST
+USE POST
+
 PAYLOAD:
 {
 "username" : "username",
