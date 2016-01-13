@@ -18,6 +18,8 @@ The board must exist first. Working on an endpoint for creating boards. You can 
 under post() function :  p = get_session(get.user_name(),get.password())
 
 WARNING Pinterest has since changed their api and I don't think this works anymore. 
+
+Aslan Varoqua
         
        
 
